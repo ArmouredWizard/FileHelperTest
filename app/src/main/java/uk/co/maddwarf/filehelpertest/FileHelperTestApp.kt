@@ -18,7 +18,7 @@ import androidx.navigation.compose.rememberNavController
 import uk.co.maddwarf.filehelpertest.navigation.FileHelperTestNavHost
 
 @Composable
-fun DungeonMapGeneratorApp(
+fun FileHelperTestApp(
     navController: NavHostController = rememberNavController()
 ) {
     FileHelperTestNavHost(navController = navController)

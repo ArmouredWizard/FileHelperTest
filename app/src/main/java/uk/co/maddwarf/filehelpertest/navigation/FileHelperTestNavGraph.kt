@@ -28,7 +28,6 @@ fun FileHelperTestNavHost(
                 modifier = Modifier,
                 navigateToMapScreen = { /*navController.navigate("${MapScreenDestination.route}/${it}") */},
                 navigateToSettings = {},//todo add Settings destination
-
             )
         }//end Home composable
 

@@ -1,0 +1,2486 @@
+{
+  "Orcs": [
+    {
+      "name": "Orc",
+      "cr": 1,
+      "weight": 5,
+      "xp": 100
+    },
+    {
+      "name": "Orc Veteran",
+      "cr": 4,
+      "weight": 2,
+      "xp": 1100
+    },
+    {
+      "name": "Orc War Chief",
+      "cr": 4,
+      "weight": 1,
+      "xp": 1100
+    },
+    {
+      "name": "Orc Shaman",
+      "cr": 2,
+      "weight": 1,
+      "xp": 450
+    },
+    {
+      "name": "Orog",
+      "cr": 2,
+      "weight": 1,
+      "xp": 450
+    },
+    {
+      "name": "Red Fang Orc",
+      "cr": 3,
+      "weight": 1,
+      "xp": 700
+    },
+    {
+      "name": "Wolf",
+      "cr": 1,
+      "weight": 5,
+      "xp": 50
+    },
+    {
+      "name": "Dire Wolf",
+      "cr": 3,
+      "weight": 1,
+      "xp": 700
+    },
+    {
+      "name": "Uruk-Hai",
+      "cr": 8,
+      "weight": 1,
+      "xp": 3900
+    }
+  ],
+  "Goblinoids": [
+    {
+      "name": "Bugbear",
+      "weight": 3,
+      "xp": 200,
+      "cr": 1
+    },
+    {
+      "name": "Bugbear Chief",
+      "weight": 1,
+      "xp": 700,
+      "cr": 3
+    },
+    {
+      "name": "Goblin",
+      "weight": 8,
+      "xp": 50,
+      "cr": 1
+    },
+    {
+      "name": "Goblin Boss",
+      "weight": 1,
+      "xp": 200,
+      "cr": 1
+    },
+    {
+      "name": "Hobgoblin",
+      "weight": 4,
+      "xp": 200,
+      "cr": 1
+    },
+    {
+      "name": "Hobgoblin Captain",
+      "weight": 1,
+      "xp": 700,
+      "cr": 3
+    },
+    {
+      "name": "Hobgoblin Devastator",
+      "weight": 1,
+      "xp": 1100,
+      "cr": 4
+    },
+    {
+      "name": "Hobgoblin Iron Shadow",
+      "weight": 1,
+      "xp": 450,
+      "cr": 2
+    },
+    {
+      "name": "Hobgoblin Warlord",
+      "weight": 1,
+      "xp": 2300,
+      "cr": 6
+    },
+    {
+      "name": "Nilbog",
+      "weight": 1,
+      "xp": 200,
+      "cr": 1
+    },
+    {
+      "name": "Worg",
+      "weight": 2,
+      "xp": 100,
+      "cr": 1
+    }
+  ],
+  "Undead": [
+    {
+      "name": "Adult Blue Dracolich",
+      "cr": 17,
+      "weight": 1,
+      "xp": 18000
+    },
+    {
+      "name": "Banshee",
+      "cr": 4,
+      "weight": 2,
+      "xp": 1100
+    },
+    {
+      "name": "Beholder Zombie",
+      "cr": 5,
+      "weight": 3,
+      "xp": 1800
+    },
+    {
+      "name": "Bone Naga",
+      "cr": 4,
+      "weight": 2,
+      "xp": 1100
+    },
+    {
+      "name": "Crawling Claw",
+      "cr": 1,
+      "weight": 2,
+      "xp": 100
+    },
+    {
+      "name": "Death Knight",
+      "cr": 17,
+      "weight": 4,
+      "xp": 18000
+    },
+    {
+      "name": "Death Tyrant",
+      "cr": 14,
+      "weight": 2,
+      "xp": 11500
+    },
+    {
+      "name": "Demilich",
+      "cr": 18,
+      "weight": 1,
+      "xp": 20000
+    },
+    {
+      "name": "Flameskull",
+      "cr": 4,
+      "weight": 5,
+      "xp": 1100
+    },
+    {
+      "name": "Ghast",
+      "cr": 2,
+      "weight": 8,
+      "xp": 450
+    },
+    {
+      "name": "Ghost",
+      "cr": 4,
+      "weight": 10,
+      "xp": 1100
+    },
+    {
+      "name": "Ghoul",
+      "cr": 1,
+      "weight": 10,
+      "xp": 200
+    },
+    {
+      "name": "Lich",
+      "cr": 21,
+      "weight": 2,
+      "xp": 25000
+    },
+    {
+      "name": "Minotaur Skeleton",
+      "cr": 2,
+      "weight": 5,
+      "xp": 450
+    },
+    {
+      "name": "Mummy",
+      "cr": 3,
+      "weight": 5,
+      "xp": 700
+    },
+    {
+      "name": "Mummy Lord",
+      "cr": 15,
+      "weight": 1,
+      "xp": 13000
+    },
+    {
+      "name": "Ogre Zombie",
+      "cr": 2,
+      "weight": 20,
+      "xp": 450
+    },
+    {
+      "name": "Poltergeist",
+      "cr": 2,
+      "weight": 1,
+      "xp": 450
+    },
+    {
+      "name": "Revenant",
+      "cr": 5,
+      "weight": 5,
+      "xp": 1800
+    },
+    {
+      "name": "Shadow",
+      "cr": 1,
+      "weight": 2,
+      "xp": 200
+    },
+    {
+      "name": "Skeleton",
+      "cr": 1,
+      "weight": 40,
+      "xp": 100
+    },
+    {
+      "name": "Specter",
+      "cr": 1,
+      "weight": 5,
+      "xp": 200
+    },
+    {
+      "name": "Vampire",
+      "cr": 13,
+      "weight": 10,
+      "xp": 10000
+    },
+    {
+      "name": "Skeletal Warhorse",
+      "cr": 1,
+      "weight": 5,
+      "xp": 200
+    },
+    {
+      "name": "Wight",
+      "cr": 3,
+      "weight": 20,
+      "xp": 700
+    },
+    {
+      "name": "Will-o-Wisp",
+      "cr": 2,
+      "weight": 2,
+      "xp": 450
+    },
+    {
+      "name": "Wraith",
+      "cr": 5,
+      "weight": 9,
+      "xp": 1800
+    },
+    {
+      "name": "Zombie",
+      "cr": 1,
+      "weight": 40,
+      "xp": 200
+    }
+  ],
+  "Elementals": [
+    {
+      "name": "Air Elemental",
+      "cr": 5,
+      "xp": 1800,
+      "weight": 5
+    },
+    {
+      "name": "Azer",
+      "cr": 2,
+      "xp": 450,
+      "weight": 1
+    },
+    {
+      "name": "Dao",
+      "cr": 11,
+      "xp": 7200,
+      "weight": 1
+    },
+    {
+      "name": "Djinni",
+      "cr": 11,
+      "xp": 7200,
+      "weight": 2
+    },
+    {
+      "name": "Dust Mephit",
+      "cr": 1,
+      "xp": 100,
+      "weight": 5
+    },
+    {
+      "name": "Earth Elemental",
+      "cr": 5,
+      "xp": 1800,
+      "weight": 5
+    },
+    {
+      "name": "Efreeti",
+      "cr": 11,
+      "xp": 7200,
+      "weight": 3
+    },
+    {
+      "name": "Fire Elemental",
+      "cr": 5,
+      "xp": 1800,
+      "weight": 5
+    },
+    {
+      "name": "Fire Snake",
+      "cr": 1,
+      "xp": 200,
+      "weight": 6
+    },
+    {
+      "name": "Galeb Duhr",
+      "cr": 6,
+      "xp": 2300,
+      "weight": 2
+    },
+    {
+      "name": "Gargoyle",
+      "cr": 2,
+      "xp": 450,
+      "weight": 7
+    },
+    {
+      "name": "Ice Mephit",
+      "cr": 1,
+      "xp": 100,
+      "weight": 6
+    },
+    {
+      "name": "Invisible Stalker",
+      "cr": 6,
+      "xp": 2300,
+      "weight": 2
+    },
+    {
+      "name": "Magma Mephit",
+      "cr": 1,
+      "xp": 100,
+      "weight": 7
+    },
+    {
+      "name": "Magmin",
+      "cr": 1,
+      "xp": 100,
+      "weight": 2
+    },
+    {
+      "name": "Marid",
+      "cr": 11,
+      "xp": 7200,
+      "weight": 2
+    },
+    {
+      "name": "Mud Mephit",
+      "cr": 1,
+      "xp": 50,
+      "weight": 6
+    },
+    {
+      "name": "Salamander",
+      "cr": 5,
+      "xp": 1800,
+      "weight": 4
+    },
+    {
+      "name": "Smoke Mephit",
+      "cr": 1,
+      "xp": 50,
+      "weight": 6
+    },
+    {
+      "name": "Steam Mephit",
+      "cr": 1,
+      "xp": 50,
+      "weight": 6
+    },
+    {
+      "name": "Water Elemental",
+      "cr": 5,
+      "xp": 1800,
+      "weight": 6
+    },
+    {
+      "name": "Water Weird",
+      "cr": 3,
+      "xp": 700,
+      "weight": 3
+    },
+    {
+      "name": "Xorn",
+      "cr": 5,
+      "xp": 1800,
+      "weight": 7
+    }
+  ],
+  "Dragons": [
+    {
+      "name": "Adult Black Dragon",
+      "cr": 14,
+      "weight": 1,
+      "xp": 11500
+    },
+    {
+      "name": "Adult Blue Dragon",
+      "cr": 16,
+      "weight": 1,
+      "xp": 15000
+    },
+    {
+      "name": "Adult Brass Dragon",
+      "cr": 13,
+      "weight": 1,
+      "xp": 10000
+    },
+    {
+      "name": "Adult Bronze Dragon",
+      "cr": 15,
+      "weight": 1,
+      "xp": 13000
+    },
+    {
+      "name": "Adult Copper Dragon",
+      "cr": 14,
+      "weight": 1,
+      "xp": 11500
+    },
+    {
+      "name": "Adult Gold Dragon",
+      "cr": 17,
+      "weight": 1,
+      "xp": 18000
+    },
+    {
+      "name": "Adult Green Dragon",
+      "cr": 15,
+      "weight": 1,
+      "xp": 13000
+    },
+    {
+      "name": "Adult Red Dragon",
+      "cr": 17,
+      "weight": 1,
+      "xp": 18000
+    },
+    {
+      "name": "Adult Silver Dragon",
+      "cr": 16,
+      "weight": 1,
+      "xp": 15000
+    },
+    {
+      "name": "Adult White Dragon",
+      "cr": 13,
+      "weight": 1,
+      "xp": 10000
+    },
+    {
+      "name": "Young Black Dragon",
+      "cr": 7,
+      "weight": 1,
+      "xp": 2900
+    },
+    {
+      "name": "Young Blue Dragon",
+      "cr": 9,
+      "weight": 1,
+      "xp": 5000
+    },
+    {
+      "name": "Young Brass Dragon",
+      "cr": 6,
+      "weight": 1,
+      "xp": 2300
+    },
+    {
+      "name": "Young Bronze Dragon",
+      "cr": 8,
+      "weight": 1,
+      "xp": 3900
+    },
+    {
+      "name": "Young Copper Dragon",
+      "cr": 7,
+      "weight": 1,
+      "xp": 2900
+    },
+    {
+      "name": "Young Gold Dragon",
+      "cr": 10,
+      "weight": 1,
+      "xp": 5900
+    },
+    {
+      "name": "Young Green Dragon",
+      "cr": 8,
+      "weight": 1,
+      "xp": 3900
+    },
+    {
+      "name": "Young Red Dragon",
+      "cr": 10,
+      "weight": 1,
+      "xp": 5900
+    },
+    {
+      "name": "Young Red Shadow Dragon",
+      "cr": 13,
+      "weight": 1,
+      "xp": 10000
+    },
+    {
+      "name": "Young Silver Dragon",
+      "cr": 9,
+      "weight": 1,
+      "xp": 5000
+    },
+    {
+      "name": "Young White Dragon",
+      "cr": 6,
+      "weight": 1,
+      "xp": 2300
+    },
+    {
+      "name": "Black Dragon Wyrmling",
+      "cr": 2,
+      "weight": 1,
+      "xp": 200
+    },
+    {
+      "name": "Blue Dragon Wyrmling",
+      "cr": 3,
+      "weight": 1,
+      "xp": 450
+    },
+    {
+      "name": "Brass Dragon Wyrmling",
+      "cr": 1,
+      "weight": 1,
+      "xp": 100
+    },
+    {
+      "name": "Bronze Dragon Wyrmling",
+      "cr": 2,
+      "weight": 1,
+      "xp": 200
+    },
+    {
+      "name": "Copper Dragon Wyrmling",
+      "cr": 1,
+      "weight": 1,
+      "xp": 100
+    }
+  ],
+  "Drow": [
+    {
+      "name": "Drow Warrior",
+      "weight": 8,
+      "cr": "0.25",
+      "xp": 50
+    },
+    {
+      "name": "Drow Elite Warrior",
+      "weight": 2,
+      "cr": 5,
+      "xp": 1800
+    },
+    {
+      "name": "Drow Mage",
+      "weight": 2,
+      "cr": 7,
+      "xp": 2900
+    },
+    {
+      "name": "Drow Priestess",
+      "weight": 1,
+      "cr": 8,
+      "xp": 3900
+    },
+    {
+      "name": "Drider",
+      "weight": 2,
+      "cr": 6,
+      "xp": 2300
+    },
+    {
+      "name": "Drider Mage",
+      "weight": 1,
+      "cr": 6,
+      "xp": 2300
+    },
+    {
+      "name": "Giant Spider",
+      "weight": 3,
+      "cr": 1,
+      "xp": 200
+    },
+    {
+      "name": "Spore Servant",
+      "weight": 4,
+      "cr": "0.125",
+      "xp": 25
+    }
+  ],
+  "Wanderers": [
+    {
+      "name": "Carrion Crawler",
+      "weight": 1,
+      "cr": 2,
+      "xp": 450
+    },
+    {
+      "name": "Giant Rat",
+      "weight": 2,
+      "cr": 1,
+      "xp": 25
+    },
+    {
+      "name": "Gelatinous Cube",
+      "weight": 1,
+      "cr": 2,
+      "xp": 450
+    },
+    {
+      "name": "Raiding Goblin",
+      "weight": 3,
+      "cr": 1,
+      "xp": 50
+    },
+    {
+      "name": "Black Pudding",
+      "weight": 1,
+      "cr": 4,
+      "xp": 1100
+    },
+    {
+      "name": "Giant Scorpion",
+      "weight": 1,
+      "cr": 3,
+      "xp": 700
+    },
+    {
+      "name": "Redcap",
+      "weight": 1,
+      "cr": 3,
+      "xp": 700
+    },
+    {
+      "name": "Umber Hulk",
+      "weight": 1,
+      "cr": 5,
+      "xp": 1800
+    },
+    {
+      "name": "Purple Worm",
+      "weight": 1,
+      "cr": 15,
+      "xp": 13000
+    },
+    {
+      "name": "Beholder",
+      "weight": 5,
+      "cr": 13,
+      "xp": 10000
+    },
+    {
+      "name": "Bone Devil",
+      "weight": 3,
+      "cr": 9,
+      "xp": 5000
+    },
+    {
+      "name": "Formian",
+      "weight": 1,
+      "cr": 8,
+      "xp": 3900
+    }
+  ],
+  "Beasts": [
+    {
+      "name": "Aurochs",
+      "cr": 2,
+      "weight": 2,
+      "xp": 450
+    },
+    {
+      "name": "Axe Beak",
+      "cr": "0.25",
+      "weight": 1,
+      "xp": 50
+    },
+    {
+      "name": "Brown Bear",
+      "cr": 1,
+      "weight": 3,
+      "xp": 200
+    },
+    {
+      "name": "Cave Bear",
+      "cr": 2,
+      "weight": 3,
+      "xp": 450
+    },
+    {
+      "name": "Constrictor Snake",
+      "cr": "0.25",
+      "weight": 2,
+      "xp": 50
+    },
+    {
+      "name": "Crocodile",
+      "cr": "0.5",
+      "weight": 1,
+      "xp": 100
+    },
+    {
+      "name": "Dire Wolf",
+      "cr": 1,
+      "weight": 4,
+      "xp": 200
+    },
+    {
+      "name": "Giant Bat",
+      "cr": "0.25",
+      "weight": 3,
+      "xp": 50
+    },
+    {
+      "name": "Giant Boar",
+      "cr": 2,
+      "weight": 4,
+      "xp": 450
+    },
+    {
+      "name": "Giant Eagle",
+      "cr": 1,
+      "weight": 2,
+      "xp": 200
+    },
+    {
+      "name": "Giant Goat",
+      "cr": "0.5",
+      "weight": 1,
+      "xp": 100
+    },
+    {
+      "name": "Giant Hyena",
+      "cr": 1,
+      "weight": 2,
+      "xp": 200
+    },
+    {
+      "name": "Giant Lizard",
+      "cr": "0.25",
+      "weight": 2,
+      "xp": 50
+    },
+    {
+      "name": "Giant Owl",
+      "cr": "0.25",
+      "weight": 1,
+      "xp": 50
+    },
+    {
+      "name": "Giant Scorpion",
+      "cr": 3,
+      "weight": 3,
+      "xp": 700
+    },
+    {
+      "name": "Giant Spider",
+      "cr": 1,
+      "weight": 5,
+      "xp": 200
+    },
+    {
+      "name": "Giant Toad",
+      "cr": 1,
+      "weight": 2,
+      "xp": 200
+    },
+    {
+      "name": "Giant Vulture",
+      "cr": 1,
+      "weight": 2,
+      "xp": 200
+    },
+    {
+      "name": "Lion",
+      "cr": 1,
+      "weight": 2,
+      "xp": 200
+    },
+    {
+      "name": "Ox",
+      "cr": "0.25",
+      "weight": 1,
+      "xp": 50
+    },
+    {
+      "name": "Polar Bear",
+      "cr": 2,
+      "weight": 2,
+      "xp": 450
+    },
+    {
+      "name": "Rhinoceros",
+      "cr": 2,
+      "weight": 2,
+      "xp": 450
+    },
+    {
+      "name": "Rothe",
+      "cr": "0.25",
+      "weight": 1,
+      "xp": 50
+    },
+    {
+      "name": "Saber-toothed Tiger",
+      "cr": 2,
+      "weight": 2,
+      "xp": 450
+    },
+    {
+      "name": "Stench Kow",
+      "cr": "0.25",
+      "weight": 1,
+      "xp": 50
+    },
+    {
+      "name": "Tiger",
+      "cr": 1,
+      "weight": 2,
+      "xp": 200
+    },
+    {
+      "name": "Ape",
+      "cr": "0.5",
+      "weight": 1,
+      "xp": 100
+    },
+    {
+      "name": "Black Bear",
+      "cr": "0.5",
+      "weight": 2,
+      "xp": 100
+    },
+    {
+      "name": "Boar",
+      "cr": "0.25",
+      "weight": 2,
+      "xp": 50
+    },
+    {
+      "name": "Deep Rothe",
+      "cr": "0.25",
+      "weight": 1,
+      "xp": 50
+    },
+    {
+      "name": "Giant Badger",
+      "cr": "0.25",
+      "weight": 2,
+      "xp": 50
+    },
+    {
+      "name": "Giant Frog",
+      "cr": "0.25",
+      "weight": 1,
+      "xp": 50
+    },
+    {
+      "name": "Giant Poisonous Snake",
+      "cr": "0.25",
+      "weight": 1,
+      "xp": 50
+    },
+    {
+      "name": "Giant Wasp",
+      "cr": "0.5",
+      "weight": 1,
+      "xp": 100
+    },
+    {
+      "name": "Giant Weasel",
+      "cr": "0.125",
+      "weight": 3,
+      "xp": 25
+    },
+    {
+      "name": "Giant Wolf Spider",
+      "cr": "0.25",
+      "weight": 3,
+      "xp": 50
+    },
+    {
+      "name": "Hyena",
+      "cr": 0,
+      "weight": 1,
+      "xp": 10
+    },
+    {
+      "name": "Mastiff",
+      "cr": "0.25",
+      "weight": 2,
+      "xp": 25
+    },
+    {
+      "name": "Panther",
+      "cr": "0.25",
+      "weight": 1,
+      "xp": 50
+    },
+    {
+      "name": "Vulture",
+      "cr": 0,
+      "weight": 2,
+      "xp": 10
+    },
+    {
+      "name": "Wolf",
+      "cr": "0.25",
+      "weight": 4,
+      "xp": 50
+    },
+    {
+      "name": "Baboon",
+      "cr": 0,
+      "weight": 1,
+      "xp": 10
+    },
+    {
+      "name": "Blood Hawk",
+      "cr": "0.125",
+      "weight": 2,
+      "xp": 25
+    },
+    {
+      "name": "Eagle",
+      "cr": 0,
+      "weight": 2,
+      "xp": 10
+    },
+    {
+      "name": "Giant Centipede",
+      "cr": "0.25",
+      "weight": 4,
+      "xp": 50
+    },
+    {
+      "name": "Giant Fire Beetle",
+      "cr": 0,
+      "weight": 4,
+      "xp": 10
+    },
+    {
+      "name": "Giant Rat",
+      "cr": "0.25",
+      "weight": 5,
+      "xp": 25
+    },
+    {
+      "name": "Jackal",
+      "cr": 0,
+      "weight": 1,
+      "xp": 10
+    },
+    {
+      "name": "Badger",
+      "cr": 0,
+      "weight": 1,
+      "xp": 10
+    },
+    {
+      "name": "Bat",
+      "cr": 0,
+      "weight": 2,
+      "xp": 10
+    },
+    {
+      "name": "Cranium Rat",
+      "cr": 0,
+      "weight": 1,
+      "xp": 10
+    },
+    {
+      "name": "Flying Snake",
+      "cr": "0.125",
+      "weight": 1,
+      "xp": 25
+    },
+    {
+      "name": "Poisonous Snake",
+      "cr": "0.125",
+      "weight": 1,
+      "xp": 25
+    },
+    {
+      "name": "Quipper",
+      "cr": 0,
+      "weight": 1,
+      "xp": 10
+    },
+    {
+      "name": "Rat",
+      "cr": 0,
+      "weight": 1,
+      "xp": 10
+    },
+    {
+      "name": "Raven",
+      "cr": 0,
+      "weight": 1,
+      "xp": 10
+    },
+    {
+      "name": "Scorpion",
+      "cr": 0,
+      "weight": 1,
+      "xp": 10
+    },
+    {
+      "name": "Spider",
+      "cr": 0,
+      "weight": 2,
+      "xp": 10
+    },
+    {
+      "name": "Stirge",
+      "cr": "0.125",
+      "weight": 5,
+      "xp": 25
+    },
+    {
+      "name": "Giant Ape",
+      "cr": 7,
+      "weight": 3,
+      "xp": 2900
+    },
+    {
+      "name": "Mammoth",
+      "cr": 6,
+      "weight": 2,
+      "xp": 2300
+    },
+    {
+      "name": "Giant Crocodile",
+      "cr": 5,
+      "weight": 3,
+      "xp": 1800
+    }
+  ],
+  "Dinosaurs": [
+    {
+      "name": "Ankylosaurus",
+      "cr": 3,
+      "xp": 700,
+      "weight": 1
+    },
+    {
+      "name": "Giant Scorpion",
+      "cr": 3,
+      "xp": 700,
+      "weight": 1
+    },
+    {
+      "name": "Stegosaurus",
+      "cr": 4,
+      "xp": 1100,
+      "weight": 1
+    },
+    {
+      "name": "Brontosaurus",
+      "cr": 5,
+      "xp": 1800,
+      "weight": 1
+    },
+    {
+      "name": "Giant Crocodile",
+      "cr": 5,
+      "xp": 1800,
+      "weight": 1
+    },
+    {
+      "name": "Triceratops",
+      "cr": 5,
+      "xp": 1800,
+      "weight": 1
+    },
+    {
+      "name": "Mammoth",
+      "cr": 6,
+      "xp": 2300,
+      "weight": 1
+    },
+    {
+      "name": "Giant Ape",
+      "cr": 7,
+      "xp": 2900,
+      "weight": 1
+    },
+    {
+      "name": "Tyrannosaurus Rex",
+      "cr": 8,
+      "xp": 3900,
+      "weight": 1
+    },
+    {
+      "name": "Allosaurus",
+      "cr": 2,
+      "weight": 1,
+      "xp": 450
+    },
+    {
+      "name": "Hadrosaurus",
+      "cr": "0.25",
+      "weight": 1,
+      "xp": 50
+    },
+    {
+      "name": "Saber-toothed Tiger",
+      "cr": 2,
+      "weight": 1,
+      "xp": 450
+    },
+    {
+      "name": "Deinonychus",
+      "cr": 1,
+      "weight": 1,
+      "xp": 200
+    },
+    {
+      "name": "Dimetrodon",
+      "cr": "0.25",
+      "weight": 1,
+      "xp": 50
+    },
+    {
+      "name": "Pteranodon",
+      "cr": "0.25",
+      "weight": 1,
+      "xp": 50
+    },
+    {
+      "name": "Velociraptor",
+      "cr": "0.25",
+      "weight": 1,
+      "xp": 50
+    },
+    {
+      "name": "Aurochs",
+      "cr": 2,
+      "weight": 1,
+      "xp": 450
+    }
+  ],
+  "Oozes": [
+    {
+      "name": "Oblex Spawn",
+      "cr": "0.25",
+      "xp": 50,
+      "weight": 1
+    },
+    {
+      "name": "Gray Ooze",
+      "cr": "0.5",
+      "xp": 100,
+      "weight": 1
+    },
+    {
+      "name": "Gelatinous Cube",
+      "cr": 2,
+      "xp": 450,
+      "weight": 3
+    },
+    {
+      "name": "Ochre Jelly",
+      "cr": 2,
+      "xp": 450,
+      "weight": 1
+    },
+    {
+      "name": "Slithering Tracker",
+      "cr": 3,
+      "xp": 700,
+      "weight": 1
+    },
+    {
+      "name": "Black Pudding",
+      "cr": 4,
+      "xp": 1100,
+      "weight": 1
+    },
+    {
+      "name": "Adult Oblex",
+      "cr": 5,
+      "xp": 1800,
+      "weight": 1
+    },
+    {
+      "name": "Elder Oblex",
+      "cr": 10,
+      "xp": 5900,
+      "weight": 1
+    }
+  ],
+  "Monstrosity": [
+    {
+      "name": "Chitine",
+      "cr": "0.5",
+      "xp": 100,
+      "weight": 1
+    },
+    {
+      "name": "Cockatrice",
+      "cr": "0.5",
+      "xp": 100,
+      "weight": 2
+    },
+    {
+      "name": "Darkmantle",
+      "cr": "0.5",
+      "xp": 100,
+      "weight": 1
+    },
+    {
+      "name": "Piercer",
+      "cr": "0.5",
+      "xp": 100,
+      "weight": 3
+    },
+    {
+      "name": "Rust Monster",
+      "cr": "0.5",
+      "xp": 100,
+      "weight": 5
+    },
+    {
+      "name": "Worg",
+      "cr": "0.5",
+      "xp": 100,
+      "weight": 3
+    },
+    {
+      "name": "Death Dog",
+      "cr": 1,
+      "xp": 200,
+      "weight": 1
+    },
+    {
+      "name": "Giant Strider",
+      "cr": 1,
+      "xp": 200,
+      "weight": 1
+    },
+    {
+      "name": "Harpy",
+      "cr": 1,
+      "xp": 200,
+      "weight": 4
+    },
+    {
+      "name": "Hippogriff",
+      "cr": 1,
+      "xp": 200,
+      "weight": 2
+    },
+    {
+      "name": "Ankheg",
+      "cr": 2,
+      "xp": 450,
+      "weight": 1
+    },
+    {
+      "name": "Carrion Crawler",
+      "cr": 2,
+      "xp": 450,
+      "weight": 4
+    },
+    {
+      "name": "Ettercap",
+      "cr": 2,
+      "xp": 450,
+      "weight": 1
+    },
+    {
+      "name": "Grick",
+      "cr": 2,
+      "xp": 450,
+      "weight": 1
+    },
+    {
+      "name": "Griffon",
+      "cr": 2,
+      "xp": 450,
+      "weight": 1
+    },
+    {
+      "name": "Merrow",
+      "cr": 2,
+      "xp": 450,
+      "weight": 1
+    },
+    {
+      "name": "Mimic",
+      "cr": 2,
+      "xp": 450,
+      "weight": 7
+    },
+    {
+      "name": "Shadow Mastiff",
+      "cr": 2,
+      "xp": 450,
+      "weight": 1
+    },
+    {
+      "name": "Basilisk",
+      "cr": 3,
+      "xp": 700,
+      "weight": 2
+    },
+    {
+      "name": "Cave Fisher",
+      "cr": 3,
+      "xp": 700,
+      "weight": 1
+    },
+    {
+      "name": "Displacer Beast",
+      "cr": 3,
+      "xp": 700,
+      "weight": 3
+    },
+    {
+      "name": "Doppelganger",
+      "cr": 3,
+      "xp": 700,
+      "weight": 1
+    },
+    {
+      "name": "Hook Horror",
+      "cr": 3,
+      "xp": 700,
+      "weight": 5
+    },
+    {
+      "name": "Manticore",
+      "cr": 3,
+      "xp": 700,
+      "weight": 1
+    },
+    {
+      "name": "Minotaur",
+      "cr": 3,
+      "xp": 700,
+      "weight": 5
+    },
+    {
+      "name": "Owlbear",
+      "cr": 3,
+      "xp": 700,
+      "weight": 8
+    },
+    {
+      "name": "Phase Spider",
+      "cr": 3,
+      "xp": 700,
+      "weight": 1
+    },
+    {
+      "name": "Trapper",
+      "cr": 3,
+      "xp": 700,
+      "weight": 1
+    },
+    {
+      "name": "Winter Wolf",
+      "cr": 3,
+      "xp": 700,
+      "weight": 1
+    },
+    {
+      "name": "Yeti",
+      "cr": 3,
+      "xp": 700,
+      "weight": 1
+    },
+    {
+      "name": "Lamia",
+      "cr": 4,
+      "xp": 1100,
+      "weight": 1
+    },
+    {
+      "name": "Banderhobb",
+      "cr": 5,
+      "xp": 1800,
+      "weight": 1
+    },
+    {
+      "name": "Bulette",
+      "cr": 5,
+      "xp": 1800,
+      "weight": 4
+    },
+    {
+      "name": "Catoblepas",
+      "cr": 5,
+      "xp": 1800,
+      "weight": 1
+    },
+    {
+      "name": "Gorgon",
+      "cr": 5,
+      "xp": 1800,
+      "weight": 1
+    },
+    {
+      "name": "Roper",
+      "cr": 5,
+      "xp": 1800,
+      "weight": 2
+    },
+    {
+      "name": "Tlincalli",
+      "cr": 5,
+      "xp": 1800,
+      "weight": 1
+    },
+    {
+      "name": "Umber Hulk",
+      "cr": 5,
+      "xp": 1800,
+      "weight": 3
+    },
+    {
+      "name": "Chimera",
+      "cr": 6,
+      "xp": 2300,
+      "weight": 1
+    },
+    {
+      "name": "Medusa",
+      "cr": 6,
+      "xp": 2300,
+      "weight": 1
+    },
+    {
+      "name": "Grick Alpha",
+      "cr": 7,
+      "xp": 2900,
+      "weight": 1
+    },
+    {
+      "name": "Lost Sorrowsworn",
+      "cr": 7,
+      "xp": 2900,
+      "weight": 1
+    },
+    {
+      "name": "Hydra",
+      "cr": 8,
+      "xp": 3900,
+      "weight": 5
+    },
+    {
+      "name": "Spirit Naga",
+      "cr": 8,
+      "xp": 3900,
+      "weight": 1
+    },
+    {
+      "name": "Abominable Yeti",
+      "cr": 9,
+      "xp": 5000,
+      "weight": 1
+    },
+    {
+      "name": "Lonely Sorrowsworn",
+      "cr": 9,
+      "xp": 5000,
+      "weight": 1
+    },
+    {
+      "name": "Froghemoth",
+      "cr": 10,
+      "xp": 5900,
+      "weight": 1
+    },
+    {
+      "name": "Guardian Naga",
+      "cr": 10,
+      "xp": 5900,
+      "weight": 1
+    },
+    {
+      "name": "Behir",
+      "cr": 11,
+      "xp": 7200,
+      "weight": 1
+    },
+    {
+      "name": "Gynosphinx",
+      "cr": 11,
+      "xp": 7200,
+      "weight": 1
+    },
+    {
+      "name": "Hungry Sorrowsworn",
+      "cr": 11,
+      "xp": 7200,
+      "weight": 1
+    },
+    {
+      "name": "Remorhaz",
+      "cr": 11,
+      "xp": 7200,
+      "weight": 1
+    },
+    {
+      "name": "Roc",
+      "cr": 11,
+      "xp": 7200,
+      "weight": 4
+    },
+    {
+      "name": "Gray Render",
+      "cr": 12,
+      "xp": 8400,
+      "weight": 1
+    },
+    {
+      "name": "Angry Sorrowsworn",
+      "cr": 13,
+      "xp": 10000,
+      "weight": 1
+    },
+    {
+      "name": "Purple Worm",
+      "cr": 15,
+      "xp": 13000,
+      "weight": 1
+    },
+    {
+      "name": "Androsphinx",
+      "cr": 17,
+      "xp": 18000,
+      "weight": 1
+    },
+    {
+      "name": "Astral Dreadnought",
+      "cr": 21,
+      "xp": 33000,
+      "weight": 1
+    },
+    {
+      "name": "Kraken",
+      "cr": 23,
+      "xp": 50000,
+      "weight": 1
+    },
+    {
+      "name": "Tarrasque",
+      "cr": 30,
+      "xp": 155000,
+      "weight": 1
+    }
+  ],
+  "Plants": [
+    {
+      "name": "Awakened Shrub",
+      "cr": 0,
+      "xp": 10,
+      "weight": 1
+    },
+    {
+      "name": "Myconid Sprout",
+      "cr": 0,
+      "xp": 10,
+      "weight": 2
+    },
+    {
+      "name": "Shrieker",
+      "cr": 0,
+      "xp": 10,
+      "weight": 1
+    },
+    {
+      "name": "Twig Blight",
+      "cr": "0.125",
+      "xp": 25,
+      "weight": 1
+    },
+    {
+      "name": "Needle Blight",
+      "cr": "0.25",
+      "xp": 50,
+      "weight": 1
+    },
+    {
+      "name": "Vegepygmy",
+      "cr": "0.25",
+      "xp": 50,
+      "weight": 1
+    },
+    {
+      "name": "Violet Fungus",
+      "cr": "0.25",
+      "xp": 50,
+      "weight": 1
+    },
+    {
+      "name": "Gas Spore",
+      "cr": "0.5",
+      "xp": 100,
+      "weight": 1
+    },
+    {
+      "name": "Myconid Adult",
+      "cr": "0.5",
+      "xp": 100,
+      "weight": 3
+    },
+    {
+      "name": "Vine Blight",
+      "cr": "0.5",
+      "xp": 100,
+      "weight": 1
+    },
+    {
+      "name": "Quaggoth Spore Servant",
+      "cr": 1,
+      "xp": 200,
+      "weight": 1
+    },
+    {
+      "name": "Thorny",
+      "cr": 1,
+      "xp": 200,
+      "weight": 1
+    },
+    {
+      "name": "Awakened Tree",
+      "cr": 2,
+      "xp": 450,
+      "weight": 1
+    },
+    {
+      "name": "Myconid Sovereign",
+      "cr": 2,
+      "xp": 450,
+      "weight": 1
+    },
+    {
+      "name": "Vegepygmy Chief",
+      "cr": 2,
+      "xp": 450,
+      "weight": 1
+    },
+    {
+      "name": "Shambling Mound",
+      "cr": 5,
+      "xp": 1800,
+      "weight": 1
+    },
+    {
+      "name": "Wood Woad",
+      "cr": 5,
+      "xp": 1800,
+      "weight": 1
+    },
+    {
+      "name": "Corpse Flower",
+      "cr": 8,
+      "xp": 3900,
+      "weight": 1
+    },
+    {
+      "name": "Treant",
+      "cr": 9,
+      "xp": 5000,
+      "weight": 1
+    }
+  ],
+  "Giants": [
+    {
+      "name": "Half-ogre",
+      "cr": 1,
+      "xp": 200,
+      "weight": 2
+    },
+    {
+      "name": "Ogre",
+      "cr": 2,
+      "xp": 450,
+      "weight": 4
+    },
+    {
+      "name": "Ogre Bolt Launcher",
+      "cr": 2,
+      "xp": 450,
+      "weight": 1
+    },
+    {
+      "name": "Ogre Howdah",
+      "cr": 2,
+      "xp": 450,
+      "weight": 1
+    },
+    {
+      "name": "Ogre Chain Brute",
+      "cr": 3,
+      "xp": 700,
+      "weight": 1
+    },
+    {
+      "name": "Ettin",
+      "cr": 4,
+      "xp": 1100,
+      "weight": 2
+    },
+    {
+      "name": "Ogre Battering Ram",
+      "cr": 4,
+      "xp": 1100,
+      "weight": 1
+    },
+    {
+      "name": "Hill Giant",
+      "cr": 5,
+      "xp": 1800,
+      "weight": 3
+    },
+    {
+      "name": "Troll",
+      "cr": 5,
+      "xp": 1800,
+      "weight": 1
+    },
+    {
+      "name": "Cyclops",
+      "cr": 6,
+      "xp": 2300,
+      "weight": 1
+    },
+    {
+      "name": "Mouth of Grolantor",
+      "cr": 6,
+      "xp": 2300,
+      "weight": 1
+    },
+    {
+      "name": "Oni",
+      "cr": 7,
+      "xp": 2900,
+      "weight": 2
+    },
+    {
+      "name": "Stone Giant",
+      "cr": 7,
+      "xp": 2900,
+      "weight": 3
+    },
+    {
+      "name": "Venom Troll",
+      "cr": 7,
+      "xp": 2900,
+      "weight": 1
+    },
+    {
+      "name": "Fomorian",
+      "cr": 8,
+      "xp": 3900,
+      "weight": 1
+    },
+    {
+      "name": "Frost Giant",
+      "cr": 8,
+      "xp": 3900,
+      "weight": 3
+    },
+    {
+      "name": "Cloud Giant",
+      "cr": 9,
+      "xp": 5000,
+      "weight": 3
+    },
+    {
+      "name": "Fire Giant",
+      "cr": 9,
+      "xp": 5000,
+      "weight": 3
+    },
+    {
+      "name": "Rot Troll",
+      "cr": 9,
+      "xp": 5000,
+      "weight": 1
+    },
+    {
+      "name": "Stone Giant Dreamwalker",
+      "cr": 10,
+      "xp": 5900,
+      "weight": 1
+    },
+    {
+      "name": "Cloud Giant Smiling One",
+      "cr": 11,
+      "xp": 7200,
+      "weight": 1
+    },
+    {
+      "name": "Spirit Troll",
+      "cr": 11,
+      "xp": 7200,
+      "weight": 1
+    },
+    {
+      "name": "Frost Giant Everlasting One",
+      "cr": 12,
+      "xp": 8400,
+      "weight": 1
+    },
+    {
+      "name": "Dire Troll",
+      "cr": 13,
+      "xp": 10000,
+      "weight": 1
+    },
+    {
+      "name": "Storm Giant",
+      "cr": 13,
+      "xp": 10000,
+      "weight": 2
+    },
+    {
+      "name": "Fire Giant Dreadnought",
+      "cr": 14,
+      "xp": 11500,
+      "weight": 1
+    },
+    {
+      "name": "Storm Giant Quintessent",
+      "cr": 16,
+      "xp": 15000,
+      "weight": 1
+    }
+  ],
+  "Constructs": [
+    {
+      "name": "Homunculus",
+      "cr": 0,
+      "xp": 10,
+      "weight": 1
+    },
+    {
+      "name": "Monodrone",
+      "cr": "0.125",
+      "xp": 25,
+      "weight": 1
+    },
+    {
+      "name": "Duodrone",
+      "cr": "0.25",
+      "xp": 50,
+      "weight": 1
+    },
+    {
+      "name": "Flying Sword",
+      "cr": "0.25",
+      "xp": 50,
+      "weight": 1
+    },
+    {
+      "name": "Tridrone",
+      "cr": "0.5",
+      "xp": 100,
+      "weight": 1
+    },
+    {
+      "name": "Animated Armor",
+      "cr": 1,
+      "xp": 200,
+      "weight": 1
+    },
+    {
+      "name": "Bronze Scout",
+      "cr": 1,
+      "xp": 200,
+      "weight": 1
+    },
+    {
+      "name": "Quadrone",
+      "cr": 1,
+      "xp": 200,
+      "weight": 1
+    },
+    {
+      "name": "Scarecrow",
+      "cr": 1,
+      "xp": 200,
+      "weight": 1
+    },
+    {
+      "name": "Stone Cursed",
+      "cr": 1,
+      "xp": 200,
+      "weight": 1
+    },
+    {
+      "name": "Duergar Hammerer",
+      "cr": 2,
+      "xp": 450,
+      "weight": 1
+    },
+    {
+      "name": "Pentadrone",
+      "cr": 2,
+      "xp": 450,
+      "weight": 1
+    },
+    {
+      "name": "Duergar Screamer",
+      "cr": 3,
+      "xp": 700,
+      "weight": 1
+    },
+    {
+      "name": "Helmed Horror",
+      "cr": 4,
+      "xp": 1100,
+      "weight": 1
+    },
+    {
+      "name": "Iron Cobra",
+      "cr": 4,
+      "xp": 1100,
+      "weight": 1
+    },
+    {
+      "name": "Stone Defender",
+      "cr": 4,
+      "xp": 1100,
+      "weight": 1
+    },
+    {
+      "name": "Flesh Golem",
+      "cr": 5,
+      "xp": 1800,
+      "weight": 1
+    },
+    {
+      "name": "Oaken Bolter",
+      "cr": 5,
+      "xp": 1800,
+      "weight": 1
+    },
+    {
+      "name": "Shield Guardian",
+      "cr": 7,
+      "xp": 2900,
+      "weight": 1
+    },
+    {
+      "name": "Clay Golem",
+      "cr": 9,
+      "xp": 5000,
+      "weight": 1
+    },
+    {
+      "name": "Stone Golem",
+      "cr": 10,
+      "xp": 5900,
+      "weight": 1
+    },
+    {
+      "name": "Cadaver Collector",
+      "cr": 14,
+      "xp": 11500,
+      "weight": 1
+    },
+    {
+      "name": "Retriever",
+      "cr": 14,
+      "xp": 11500,
+      "weight": 1
+    },
+    {
+      "name": "Hellfire Engine",
+      "cr": 16,
+      "xp": 15000,
+      "weight": 1
+    },
+    {
+      "name": "Iron Golem",
+      "cr": 16,
+      "xp": 15000,
+      "weight": 1
+    },
+    {
+      "name": "Steel Predator",
+      "cr": 16,
+      "xp": 15000,
+      "weight": 1
+    }
+  ],
+  "Fiends": [
+    {
+      "name": "Lemure",
+      "cr": 0,
+      "xp": 10,
+      "weight": 1
+    },
+    {
+      "name": "Manes",
+      "cr": "0.125",
+      "xp": 25,
+      "weight": 1
+    },
+    {
+      "name": "Abyssal Wretch",
+      "cr": "0.25",
+      "xp": 50,
+      "weight": 1
+    },
+    {
+      "name": "Dretch",
+      "cr": "0.25",
+      "xp": 50,
+      "weight": 1
+    },
+    {
+      "name": "Nupperibo",
+      "cr": "0.5",
+      "xp": 100,
+      "weight": 1
+    },
+    {
+      "name": "Imp",
+      "cr": 1,
+      "xp": 200,
+      "weight": 1
+    },
+    {
+      "name": "Maw Demon",
+      "cr": 1,
+      "xp": 200,
+      "weight": 1
+    },
+    {
+      "name": "Quasit",
+      "cr": 1,
+      "xp": 200,
+      "weight": 1
+    },
+    {
+      "name": "Vargouille",
+      "cr": 1,
+      "xp": 200,
+      "weight": 1
+    },
+    {
+      "name": "Rutterkin",
+      "cr": 2,
+      "xp": 450,
+      "weight": 1
+    },
+    {
+      "name": "Spined Devil",
+      "cr": 2,
+      "xp": 450,
+      "weight": 1
+    },
+    {
+      "name": "Bearded Devil",
+      "cr": 3,
+      "xp": 700,
+      "weight": 1
+    },
+    {
+      "name": "Bulezau",
+      "cr": 3,
+      "xp": 700,
+      "weight": 1
+    },
+    {
+      "name": "Hell Hound",
+      "cr": 3,
+      "xp": 700,
+      "weight": 1
+    },
+    {
+      "name": "Merrenoloth",
+      "cr": 3,
+      "xp": 700,
+      "weight": 1
+    },
+    {
+      "name": "Nightmare",
+      "cr": 3,
+      "xp": 700,
+      "weight": 1
+    },
+    {
+      "name": "Babau",
+      "cr": 4,
+      "xp": 1100,
+      "weight": 1
+    },
+    {
+      "name": "Barghest",
+      "cr": 4,
+      "xp": 1100,
+      "weight": 1
+    },
+    {
+      "name": "Dybbuk",
+      "cr": 4,
+      "xp": 1100,
+      "weight": 1
+    },
+    {
+      "name": "Gnoll Fang of Yeenoghu",
+      "cr": 4,
+      "xp": 1100,
+      "weight": 1
+    },
+    {
+      "name": "Incubus",
+      "cr": 4,
+      "xp": 1100,
+      "weight": 1
+    },
+    {
+      "name": "Merregon",
+      "cr": 4,
+      "xp": 1100,
+      "weight": 1
+    },
+    {
+      "name": "Shadow Demon",
+      "cr": 4,
+      "xp": 1100,
+      "weight": 1
+    },
+    {
+      "name": "Succubus",
+      "cr": 4,
+      "xp": 1100,
+      "weight": 1
+    },
+    {
+      "name": "Barbed Devil",
+      "cr": 5,
+      "xp": 1800,
+      "weight": 1
+    },
+    {
+      "name": "Barlgura",
+      "cr": 5,
+      "xp": 1800,
+      "weight": 1
+    },
+    {
+      "name": "Cambion",
+      "cr": 5,
+      "xp": 1800,
+      "weight": 1
+    },
+    {
+      "name": "Mezzoloth",
+      "cr": 5,
+      "xp": 1800,
+      "weight": 1
+    },
+    {
+      "name": "Night Hag",
+      "cr": 5,
+      "xp": 1800,
+      "weight": 1
+    },
+    {
+      "name": "Tanarukk",
+      "cr": 5,
+      "xp": 1800,
+      "weight": 1
+    },
+    {
+      "name": "Chasme",
+      "cr": 6,
+      "xp": 2300,
+      "weight": 1
+    },
+    {
+      "name": "Vrock",
+      "cr": 6,
+      "xp": 2300,
+      "weight": 1
+    },
+    {
+      "name": "White Abishai",
+      "cr": 6,
+      "xp": 2300,
+      "weight": 1
+    },
+    {
+      "name": "Armanite",
+      "cr": 7,
+      "xp": 2900,
+      "weight": 1
+    },
+    {
+      "name": "Black Abishai",
+      "cr": 7,
+      "xp": 2900,
+      "weight": 1
+    },
+    {
+      "name": "Dhergoloth",
+      "cr": 7,
+      "xp": 2900,
+      "weight": 1
+    },
+    {
+      "name": "Draegloth",
+      "cr": 7,
+      "xp": 2900,
+      "weight": 1
+    },
+    {
+      "name": "Maurezhi",
+      "cr": 7,
+      "xp": 2900,
+      "weight": 1
+    },
+    {
+      "name": "Canoloth",
+      "cr": 8,
+      "xp": 3900,
+      "weight": 1
+    },
+    {
+      "name": "Chain Devil",
+      "cr": 8,
+      "xp": 3900,
+      "weight": 1
+    },
+    {
+      "name": "Hezrou",
+      "cr": 8,
+      "xp": 3900,
+      "weight": 1
+    },
+    {
+      "name": "Howler",
+      "cr": 8,
+      "xp": 3900,
+      "weight": 1
+    },
+    {
+      "name": "Shoosuva",
+      "cr": 8,
+      "xp": 3900,
+      "weight": 1
+    },
+    {
+      "name": "Bone Devil",
+      "cr": 9,
+      "xp": 5000,
+      "weight": 1
+    },
+    {
+      "name": "Glabrezu",
+      "cr": 9,
+      "xp": 5000,
+      "weight": 1
+    },
+    {
+      "name": "Hydroloth",
+      "cr": 9,
+      "xp": 5000,
+      "weight": 1
+    },
+    {
+      "name": "Nycaloth",
+      "cr": 9,
+      "xp": 5000,
+      "weight": 1
+    },
+    {
+      "name": "Orthon",
+      "cr": 10,
+      "xp": 5900,
+      "weight": 1
+    },
+    {
+      "name": "Yochlol",
+      "cr": 10,
+      "xp": 5900,
+      "weight": 1
+    },
+    {
+      "name": "Alkilith",
+      "cr": 11,
+      "xp": 7200,
+      "weight": 1
+    },
+    {
+      "name": "Horned Devil",
+      "cr": 11,
+      "xp": 7200,
+      "weight": 1
+    },
+    {
+      "name": "Yagnoloth",
+      "cr": 11,
+      "xp": 7200,
+      "weight": 1
+    },
+    {
+      "name": "Arcanaloth",
+      "cr": 12,
+      "xp": 8400,
+      "weight": 1
+    },
+    {
+      "name": "Erinyes",
+      "cr": 12,
+      "xp": 8400,
+      "weight": 1
+    },
+    {
+      "name": "Oinoloth",
+      "cr": 12,
+      "xp": 8400,
+      "weight": 1
+    },
+    {
+      "name": "Devourer",
+      "cr": 13,
+      "xp": 10000,
+      "weight": 1
+    },
+    {
+      "name": "Nalfeshnee",
+      "cr": 13,
+      "xp": 10000,
+      "weight": 1
+    },
+    {
+      "name": "Narzugon",
+      "cr": 13,
+      "xp": 10000,
+      "weight": 1
+    },
+    {
+      "name": "Rakshasa",
+      "cr": 13,
+      "xp": 10000,
+      "weight": 1
+    },
+    {
+      "name": "Ultroloth",
+      "cr": 13,
+      "xp": 10000,
+      "weight": 1
+    },
+    {
+      "name": "Wastrilith",
+      "cr": 13,
+      "xp": 10000,
+      "weight": 1
+    },
+    {
+      "name": "Ice Devil",
+      "cr": 14,
+      "xp": 11500,
+      "weight": 1
+    },
+    {
+      "name": "Green Abishai",
+      "cr": 15,
+      "xp": 13000,
+      "weight": 1
+    },
+    {
+      "name": "Nabassu",
+      "cr": 15,
+      "xp": 13000,
+      "weight": 1
+    },
+    {
+      "name": "Marilith",
+      "cr": 16,
+      "xp": 15000,
+      "weight": 1
+    },
+    {
+      "name": "Blue Abishai",
+      "cr": 17,
+      "xp": 18000,
+      "weight": 1
+    },
+    {
+      "name": "Goristro",
+      "cr": 17,
+      "xp": 18000,
+      "weight": 1
+    },
+    {
+      "name": "Amnizu",
+      "cr": 18,
+      "xp": 20000,
+      "weight": 1
+    },
+    {
+      "name": "Sibriex",
+      "cr": 18,
+      "xp": 20000,
+      "weight": 1
+    },
+    {
+      "name": "Balor",
+      "cr": 19,
+      "xp": 22000,
+      "weight": 1
+    },
+    {
+      "name": "Red Abishai",
+      "cr": 19,
+      "xp": 22000,
+      "weight": 1
+    },
+    {
+      "name": "Pit Fiend",
+      "cr": 20,
+      "xp": 25000,
+      "weight": 1
+    },
+    {
+      "name": "Molydeus",
+      "cr": 21,
+      "xp": 33000,
+      "weight": 1
+    }
+  ]
+}

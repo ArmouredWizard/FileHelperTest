@@ -100,21 +100,7 @@ fun HomeBody(
     }
 
 
-    var sizeExpanded by remember { mutableStateOf(false) }
-    var chosenSize by remember { mutableStateOf(sizeList[0]) }
-    fun sizeChooser(size: String) {
-        sizeExpanded = false
-        chosenSize = size
-        // navigateToMapScreen(chosenSize)
-    }
 
-    var layersExpanded by remember { mutableStateOf(false) }
-    var chosenLayers by remember { mutableStateOf(levelList[0]) }
-    fun layersChooser(size: String) {
-        layersExpanded = false
-        chosenLayers = size
-        // navigateToMapScreen(chosenLayers)
-    }
 
     var inhabitantsExpanded by remember { mutableStateOf(false) }
     var chosenInhabitants by remember { mutableStateOf(inhabitantsList[0]) }
@@ -124,18 +110,6 @@ fun HomeBody(
     }
 
 
-    var levelExpanded by remember { mutableStateOf(false) }
-    var chosenLevel by remember { mutableStateOf(levelList[0]) }
-    fun levelChooser(level: String) {
-        levelExpanded = false
-        chosenLevel = level
-    }
-    var pcNumbersExpanded by remember { mutableStateOf(false) }
-    var chosenPcNumbers by remember { mutableStateOf(levelList[0]) }
-    fun pcNumbersChooser(pcNumbers: String) {
-        pcNumbersExpanded = false
-        chosenPcNumbers = pcNumbers
-    }
 
 
 
@@ -162,34 +136,7 @@ fun HomeBody(
                 horizontalAlignment = Alignment.End
 
             ) {
-                Row(
-                    modifier = Modifier
-                        .wrapContentWidth(),
-                    verticalAlignment = Alignment.CenterVertically
-                ) {
-                    Text(text = "Level Size: ")
-                    MySpinner(
-                        expanded = sizeExpanded,
-                        onClick = { sizeExpanded = !sizeExpanded },
-                        list = sizeList,
-                        chooser = ::sizeChooser,
-                        report = chosenSize
-                    )
-                }
-                Row(
-                    modifier = Modifier
-                        .wrapContentWidth(),
-                    verticalAlignment = Alignment.CenterVertically
-                ) {
-                    Text(text = "Number of Layers: ")
-                    MySpinner(
-                        expanded = layersExpanded,
-                        onClick = { layersExpanded = !layersExpanded },
-                        list = levelList,
-                        chooser = ::layersChooser,
-                        report = chosenLayers
-                    )
-                }
+
                 Row(
                     modifier = Modifier
                         .wrapContentWidth(),
@@ -205,42 +152,7 @@ fun HomeBody(
                     )
                 }
             }
-            Column(
-                modifier = Modifier.fillMaxSize().weight(1f)
-                 //   .background(color = Color.LightGray),
-               , verticalArrangement = Arrangement.SpaceEvenly,
-                horizontalAlignment = Alignment.CenterHorizontally
 
-            ) {
-                Row(
-                    modifier = Modifier
-                        .wrapContentWidth(),
-                    verticalAlignment = Alignment.CenterVertically
-                ) {
-                    Text(text = "PC Level: ")
-                    MySpinner(
-                        expanded = levelExpanded,
-                        onClick = { levelExpanded = !levelExpanded },
-                        list = levelList,
-                        chooser = ::levelChooser,
-                        report = chosenLevel
-                    )
-                }
-                Row(
-                    modifier = Modifier
-                        .wrapContentWidth(),
-                    verticalAlignment = Alignment.CenterVertically
-                ) {
-                    Text(text = "Number of PCs: ")
-                    MySpinner(
-                        expanded = pcNumbersExpanded,
-                        onClick = { pcNumbersExpanded = !pcNumbersExpanded },
-                        list = levelList,
-                        chooser = ::pcNumbersChooser,
-                        report = chosenPcNumbers
-                    )
-                }
-            }//end Column
 
         }//end outer row
         Row(
@@ -251,7 +163,7 @@ fun HomeBody(
         ){
         MyButton(
             text = "Make the Map!",
-            onClick = { navigateToMapScreen("$chosenSize,$chosenInhabitants,$chosenLevel,$chosenLayers,$chosenPcNumbers") },
+            onClick = { },
         )
         }
     }//end Box

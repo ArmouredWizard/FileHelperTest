@@ -1,12 +1,12 @@
 package uk.co.maddwarf.filehelpertest.repository
 
-class InhabitantsRepository {
+import android.util.Log
 
+class InhabitantsRepository(val jsonHelper: JsonHelper) {
 
     fun getCategoriesList(table: String): List<String> {
-
-        val context =
-        val categories = JsonHelper(context = context).getCategoriesList(table = table)
+        Log.d("REPO", "Get categories")
+        val categories = jsonHelper.getCategoriesList(table = table)
 
         return categories
     }
